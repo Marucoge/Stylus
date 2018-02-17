@@ -1,0 +1,5 @@
+div[class="cslider1 pageslider"],
+div[class="share"],
+div[class="dx shareb"] {
+    display: none !important;
+}

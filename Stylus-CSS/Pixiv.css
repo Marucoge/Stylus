@@ -1,0 +1,52 @@
+* {
+    font-family: "Meiryo" !important;
+    font-size: 11px !important;
+    /* color: #b2b2b2 !important;		Light Grey*/
+    border-width: 1px;
+}
+
+div[id="menu_bookmark"],
+div[id="menu_ad"],
+div[id="menu_vb_bbs"] {
+    display: none !important;
+}
+
+
+/*Links*/
+a:link {
+    font-size: 12px;
+    color: #7c91dd !important;
+    /*Light Blue*/
+    border-bottom: none !important;
+}
+
+
+/**/
+div[id="wrapper"] {
+    margin: auto !important;
+}
+
+
+/*sumbnails*/
+div[class="_7IVJuWZ"],
+div[class="_2xrGgcY"] {
+    margin: 2px !important;
+}
+
+div[id="wrapper"],
+div.layout-body {
+    width: 95% !important;
+}
+
+div[class="_2100B2C"],
+div[class="_premium-lead-tag-search-bar"],
+div[class="_premium-lead-popular-d-body _2rrT-wz"],
+ul[class="_toolmenu"],
+div[id="toolbar-items"],
+span[class="multi-ads-area"],
+div[class="ads_area_no_margin"],
+section[class="comic-hot-works"],
+div[class="ads_area"],
+div[class="share-link-container"] {
+    display: none !important;
+}
