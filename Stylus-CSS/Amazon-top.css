@@ -1,0 +1,9 @@
+﻿/*Auto-scrolling ads on the top page*/
+#desktop-banner{
+   display: none !important;
+}
+
+/* Main contents on the top page*/
+#pageContent{
+    display: none !important;
+}
